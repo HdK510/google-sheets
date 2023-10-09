@@ -1,3 +1,5 @@
+
+//built on 20231008 by Hideki Maniwa
 function onEdit(e) {
     var sheet = e.source.getSheetByName('Log'); // Specify the sheet name
     var range = e.range;
